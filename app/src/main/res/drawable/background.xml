@@ -5,10 +5,9 @@
 
     <item android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="50dp">
+        android:padding="10dp">
         <bitmap android:src="@drawable/logo_sm"
             android:gravity="center"/>
-
     </item>
 
 </layer-list>
