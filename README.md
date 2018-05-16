@@ -1,49 +1,14 @@
-# Android TensorFlow Lite Machine Learning Example
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/549b0aa0852341d9a68bbc4cfdfad4c2)](https://www.codacy.com/app/johnneijzen/Image-Processing?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tanumbotics/Image-Processing&amp;utm_campaign=Badge_Grade)
+## About Tanumbotics
 
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/blob/master/LICENSE)
+Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Program (FEP) sponsored team of Computer Science and Engineering students dedicated to develop an application to help small-scale farmers in the Philippines. Our project is UmaBOT, an crop monitoring system using drones, web, and Android technologies. 
 
-##  About Android TensorFlow Lite Machine Learning Example
-* This is an example project for integrating [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/) into Android application
-* This project include an example for object detection for an image taken from camera using TensorFlow Lite library.
+### About Image-Processing
 
-# [Read this article. It describes everything about TensorFlow Lite for Android.](https://www.letslearnai.com/2018/03/17/android-tensorflow-lite-machine-learning-example.html)
+This repository contains the source codes of the image processing application for UmaBOT, a crop monitoring system drone. This repository is under MIT license. Please read the LICENSE file for more details.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/keyboard_example.png" width="250">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/pen_example.png" width="250">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/wallet_example.png" width="250">
-</p>
-<img src=https://raw.githubusercontent.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example/master/assets/sample_combined.png >
-<br>
-<br>
+### Support or Contact
 
-### Find this project useful ? :heart:
-* Support it by clicking the :star: button on the upper right of this page. :v:
+If you need our help or just something you need to ask about us, feel free to e-mail the above-mentioned and we will be glad to respond to your request.
 
-### Credits
-* The classifier example has been taken from Google TensorFlow example.
-
-[Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
-
-### License
-```
-   Copyright (C) 2018 MINDORKS NEXTGEN PRIVATE LIMITED
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
-
-### Contributing to Android TensorFlow Lite Machine Learning Example
-Just make pull request. You are in!
+##### &copy; 2017-2018 Tanumbotics. All Rights Reserved
