@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UmaBOT</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="analyze_leaf">Analyze Leaf</string>
+</resources>
