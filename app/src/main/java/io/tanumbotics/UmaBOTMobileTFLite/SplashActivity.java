@@ -5,9 +5,6 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import java.util.Timer;
-import java.util.TimerTask;
-
 /**
  * Created by ssaurel on 02/12/2016.
  */
