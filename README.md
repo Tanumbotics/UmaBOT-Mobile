@@ -3,9 +3,9 @@
 
 Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Program (FEP) sponsored team of Computer Science and Engineering students dedicated to develop an application to help small-scale farmers in the Philippines. Our project is UmaBOT, an crop monitoring system using drones, web, and Android technologies. 
 
-### About Image-Processing
+### About UmaBOT Mobile
 
-This repository contains the source codes of the image processing application for UmaBOT, a crop monitoring system drone. This repository is under MIT license. Please read the LICENSE file for more details.
+This repository contains the source codes of the mobile application for UmaBOT, a crop monitoring system drone. This repository is under MIT license. Please read the LICENSE file for more details.
 
 ### Support or Contact
 
