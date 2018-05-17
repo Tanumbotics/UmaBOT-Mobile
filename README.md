@@ -1,4 +1,6 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/549b0aa0852341d9a68bbc4cfdfad4c2)](https://www.codacy.com/app/johnneijzen/Image-Processing?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tanumbotics/Image-Processing&amp;utm_campaign=Badge_Grade)
+| master | tflite-android-develop |
+|:------:|:----------------------:|
+| [![CircleCI](https://circleci.com/gh/Tanumbotics/UmaBOT-Mobile/tree/master.svg?style=svg)](https://circleci.com/gh/Tanumbotics/UmaBOT-Mobile/tree/master) | [![CircleCI](https://circleci.com/gh/Tanumbotics/UmaBOT-Mobile/tree/master.svg?style=svg)](https://circleci.com/gh/Tanumbotics/UmaBOT-Mobile/tree/tflite-android-develop)
 ## About Tanumbotics
 
 Hello, there! We are Tanumbotics&mdash;a Jollibee Farmer Entreprenuership Program (FEP) sponsored team of Computer Science and Engineering students dedicated to develop an application to help small-scale farmers in the Philippines. Our project is UmaBOT, an crop monitoring system using drones, web, and Android technologies. 
