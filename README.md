@@ -1,4 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/549b0aa0852341d9a68bbc4cfdfad4c2)]
 [![CircleCI](https://circleci.com/gh/Tanumbotics/UmaBOT-Mobile/tree/master.svg?style=svg)](https://circleci.com/gh/Tanumbotics/UmaBOT-Mobile/tree/master)
 ## About Tanumbotics
 
