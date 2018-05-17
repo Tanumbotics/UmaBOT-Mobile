@@ -1,10 +1,32 @@
 {
     "name": "umabot-mobile",
-    "version": "0.1.0",
-    "description": "UmaBOT mobile app for flight simulation and remote camera crop analysis and detection. ",
-    "author": "Marc Anthony Reyes <marcreyesmedia@gmail.com> (https://www.marcreyes.ph)",
-    "contributors": [
-        "John Neijzen <john.neijzen@live.com>"
+    "version": "1.0.0",
+    "description": "UmaBOT mobile app for flight simulation and remote camera crop analysis and detection.",
+    "main": "index.js",
+    "scripts": {
+        "release": "standard-version -t ''"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tanumbotics/UmaBOT-Mobile.git"
+    },
+    "keywords": [
+        "Android",
+        "Machine Learning",
+        "TensorFlow Lite",
+        "Disease Detection",
+        "Analysis"
     ],
-    "license": "MIT"
+    "author": "Marc Anthony Reyes <marcreyesmedia@gmail.com> (https://www.marcreyes.ph)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tanumbotics/UmaBOT-Mobile/issues"
+    },
+    "homepage": "https://tanumbotics.github.io/UmaBOT-Mobile",
+    "devDependencies": {
+        "standard-version": "^4.2.0"
+    },
+    "dependencies": {
+        "conventional-github-releaser": "^2.0.0"
+    }
 }
