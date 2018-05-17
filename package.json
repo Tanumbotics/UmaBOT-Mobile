@@ -1,0 +1,10 @@
+{
+    "name": "umabot-mobile",
+    "version": "0.1",
+    "description": "UmaBOT mobile app for flight simulation and remote camera crop analysis and detection. ",
+    "author": "Marc Anthony Reyes <marcreyesmedia@gmail.com> (https://www.marcreyes.ph)",
+    "contributors": [
+        "John Neijzen <john.neijzen@live.com>"
+    ],
+    "license": "MIT"
+}
