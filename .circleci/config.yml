@@ -192,13 +192,6 @@ workflows:
             branches:
               only:
                 - develop
-      - documentation:
-          requires:
-            - test_api_v16
-          filters:
-            branches:
-              only:
-                - develop
       - screenshot_api_16:
           requires:
             - test_api_v16
