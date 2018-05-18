@@ -16,7 +16,6 @@
         android:layout_height="300dp"
         android:layout_gravity="center|top"/>
 
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="80dp"
@@ -40,9 +39,7 @@
             android:maxLines="15"
             android:scrollbars="vertical"
             android:textColor="@android:color/black" />
-
     </LinearLayout>
-
 
     <Button
         android:id="@+id/btnToggleCamera"
@@ -62,5 +59,4 @@
         android:text="@string/analyze_leaf"
         android:textAllCaps="false"
         android:textColor="@android:color/black"/>
-
 </FrameLayout>
